@@ -644,3 +644,36 @@ LogInit: Object subsystem initialized
 [2018.09.12-09.50.00:901][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2018.09.12-09.53.40:890][996]LogSlate: Took 0.009906 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2018.09.12-09.57.38:995][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-10.04.14:577][714]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-10.04.14:586][714]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.09.12-10.04.14:586][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.12-10.04.14:586][714]PIE: New page: PIE session: 2DSideScrollerExampleMap (12.9.2018 16.04.14)
+[2018.09.12-10.04.14:586][714]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.09.12-10.04.14:588][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002128s)
+[2018.09.12-10.04.14:589][714]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.09.12-10.04.14:589][714]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2018.09.12-10.04.14:589][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.002984s)
+[2018.09.12-10.04.14:616][714]LogInit: XAudio2 using 'Speaker (Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.12-10.04.14:622][714]LogInit: FAudioDevice initialized.
+[2018.09.12-10.04.14:651][714]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.09.12-10.04.14:653][714]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.09.12-13.04.14
+[2018.09.12-10.04.14:653][714]LogWorld: Bringing up level for play took: 0.000866
+[2018.09.12-10.04.14:666][714]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap −0,17
+[2018.09.12-10.04.14:666][714]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.09.12-10.04.38:267][545]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.09.12-10.04.38:267][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-10.04.38:302][545]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-10.04.38:303][545]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.09.12-10.04.38:321][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-10.04.38:368][550]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.09.12-10.04.41:286][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-10.04.44:076][233]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.12-10.04.44:083][233]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2018.09.12-10.04.44:510][233]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.09.12-10.04.45:243][233]LogSlate: Took 0.003617 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.12-10.06.23:056][806]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2018.09.12-10.11.05:863][322]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-10.11.06:057][344]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-10.11.07:489][514]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-10.11.07:644][531]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-10.11.08:101][584]LogSlate: FSceneViewport::OnFocusLost() reason 2
